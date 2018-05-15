@@ -1,0 +1,6 @@
+cv2==3.4.0
+numpy==1.14.3
+keras==2.1.6
+PIL==5.1.0
+matplotlib==2.2.2
+sklearn==0.19.1
