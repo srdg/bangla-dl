@@ -4,3 +4,4 @@ keras==2.1.6
 PIL==5.1.0
 matplotlib==2.2.2
 sklearn==0.19.1
+jupyter==4.4.0
