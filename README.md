@@ -32,4 +32,4 @@ Run in terminal : `sudo -H pip3 -r install requirements.txt`
 * Help taken from
   + [OpenCV official documentation](https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html)
   + [Multi-label classification with keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
-  
+* Looking forward to improve accuracy [from this implementation of @dibyatanoy](https://github.com/dibyatanoy/Bengali-Handwritten-Character-Recognition-Using-Convolutional-Neural-Networks).
