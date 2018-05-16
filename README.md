@@ -23,7 +23,7 @@ Run in terminal : `sudo -H pip3 -r install requirements.txt`
 
 ## Remarks
 
-* Image size used is 28 x 28
+* Image size used is 32 x 32
 * The model is still not robust enough, accuracy can be improved using inception.
 
 ## References 
