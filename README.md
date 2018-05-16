@@ -5,7 +5,8 @@ Implementation of [_Handwritten Bangla Digit Recognition using Deep Learning by 
 ## Dataset
 I used the [CMATERdb](https://www.dropbox.com/s/55bhfr3ycvsewsi/CMATERdb%203.1.2.rar) pattern recognition database.
 
-## Requirements
+## Dependencies
+Clone the repository and move into the `src` folder.
 Run in terminal : `sudo -H pip3 -r install requirements.txt`
 
 ## Architecture
