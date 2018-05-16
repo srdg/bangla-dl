@@ -25,3 +25,11 @@ Run in terminal : `sudo -H pip3 -r install requirements.txt`
 
 * Image size used is 28 x 28
 * The model is still not robust enough, accuracy can be improved using inception.
+
+## References 
+
+* Inspired from the [work](https://github.com/akshaybahadur21/Devanagiri-Recognizer) of [@akshaybahadur21](https://github.com/akshaybahadur21). 
+* Help taken from
+  + [OpenCV official documentation](https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html)
+  + [Multi-label classification with keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
+  
