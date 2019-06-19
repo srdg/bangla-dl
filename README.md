@@ -11,7 +11,7 @@ Run in terminal : `pip3 -r install requirements.txt`
 
 ## Architecture
 
-_Conv2D - MaxPool - Conv2D - MaxPool - DropOut - FC - Softmax(Classification)_ [for custom model](src/Model.ipynb)
+_Conv2D - MaxPool - Conv2D - MaxPool - DropOut - FC - Softmax(Classification)_ [for custom model](src/Model.ipynb)  
 _RESNET50_ [for transfer learning](./TL_Model.ipynb)
 
 ## Accuracy
@@ -37,6 +37,6 @@ Test : ~~86%~~ 91%
 * Looking forward to improve accuracy [from this implementation of @dibyatanoy](https://github.com/dibyatanoy/Bengali-Handwritten-Character-Recognition-Using-Convolutional-Neural-Networks).
 
 ## To-do
-[ ] Use transfer learning on multiple models like VGG, DenseNet, SqueezeNet
-[ ] Predict in real-time using fast.ai
-[ ] Update real-time prediction to be done with tracking instead of handwritten characters.
+- [ ]  Use transfer learning on multiple models like VGG, DenseNet, SqueezeNet  
+- [ ]  Predict in real-time using fast.ai  
+- [ ]  Update real-time prediction to be done with tracking instead of handwritten characters.
